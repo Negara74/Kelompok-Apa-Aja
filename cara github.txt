@@ -1,0 +1,17 @@
+tatacara menggunakan github
+
+1.git init
+2.git add *
+3.git commit -m "message bebas" jika error git config --global user.email ""
+4.git remote add origin alamat githubnya
+5.git pull origin nama branch
+6.git push origin nana branch
+
+bila menambah file
+- git add -A
+- git commit -m "message bebas"
+
+cara mengganti branch 
+- git checkout -b namabranch
+pindah branch 
+- git checkout namabranch
